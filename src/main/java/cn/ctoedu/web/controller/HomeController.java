@@ -13,9 +13,6 @@ import cn.ctoedu.base.LoginUserUtil;
 import cn.ctoedu.service.ISmsService;
 import cn.ctoedu.service.ServiceResult;
 
-/**
- *
- */
 @Controller
 public class HomeController {
     @Autowired
